@@ -117,3 +117,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FendiMohamed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/FendiMohamed/FendiMohamed/output/snake.svg" alt="Snake animation" />
+
+###
