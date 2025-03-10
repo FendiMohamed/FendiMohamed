@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Fendi Mohamed a passionate web developer and computer science student from Algeria<br><br>-🔭 I’m currently working on Ai based e-learn platform<br>-👯 I’m looking for an internship and to collaborate on open source web projects<br>- 📚 I'm currently learning about Cloud and DevOps Engineering<br>- 📫 How to reach me : m.fendi@esi-sba.dz</p>
+<p align="left">I'm Fendi Mohamed a passionate web developer and computer science student from Algeria<br><br>-🔭 I’m currently working on Smart Agriculture System<br>-👯 I’m looking for an internship/job and to collaborate on open source web projects<br>- 📚 I'm currently learning about Cloud and DevOps Engineering<br>- 📫 How to reach me : m.fendi@esi-sba.dz</p>
 
 ###
 
@@ -67,6 +67,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="/drizzle.svg" height="40" alt="drizzle logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
@@ -81,11 +83,23 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="/k8s.svg" height="40" alt="k8s logo"  />
+  <img width="12" />
+  <img src="/argocd.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="/kafka.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="/rabbitmq.svg" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="/gcp.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <img src="/azure.svg" height="40" alt="azure logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
-   <img src="/sass.png" height="40" alt="sass logo"  />
+  <img src="/sass.png" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
